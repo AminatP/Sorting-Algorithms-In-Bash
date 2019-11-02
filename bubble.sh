@@ -6,7 +6,7 @@ for (( i = 0; i < $n; i++ ))
 do
 read nums[$i]
 done
-# comment
+
 # Bubble sort
 for (( i = 0; i < $n-1; i++ ))
 do
